@@ -3,7 +3,7 @@
 	import Social from './Social.svelte';
 </script>
 
-<Section border={false} class="gap-8 select-none animate-fade-in, motion-safe, transition-">
+<Section border={false} class="gap-8 select-none">
     <div class="flex flex-col items-center justify-center gap-8 text-center [&>*]:hover:scale-110 [&>*]:transition [&>*]:duration-1000">
         <div class="invert-100">
         <img class="h-48" src="/logo.png" alt="" />
